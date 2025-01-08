@@ -46,9 +46,8 @@ Here are some of the projects I’ve worked on:
 
 ## 📫 Get in Touch  
 
-- 💼 **[LinkedIn](https://www.linkedin.com/in/your-profile/)**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/Priyanka9321/)**
 - 📧 **Email**: [priyanyadav52004@gmail.com](mailto:priyanyadav52004@gmail.com)  
-- 🖥️ **Portfolio**: [Visit My Portfolio](https://yourportfolio.com/) *(if available)*  
 
 ---
 
