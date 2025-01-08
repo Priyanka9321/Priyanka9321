@@ -30,7 +30,7 @@ Here are some of the projects I’ve worked on:
 
 2. **Daily Planner App**  
    A React app to manage daily tasks with persistence through `localStorage`.  
-   🔗 [View Project](https://github.com/Priyanka9321/Daily-Planner-App)
+   🔗 [View Project](https://todohero.netlify.app/)
 
 3. **Currency Converter**  
    A web app for real-time exchange rates and country-wise currency information.  
