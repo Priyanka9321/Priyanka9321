@@ -34,7 +34,7 @@ Here are some of the projects I’ve worked on:
 
 3. **Currency Converter**  
    A web app for real-time exchange rates and country-wise currency information.  
-   🔗 [View Project](https://github.com/Priyanka9321/Currency-Converter)
+   🔗 [View Project](https://currencyexchangepro.netlify.app/)
 
 ---
 
